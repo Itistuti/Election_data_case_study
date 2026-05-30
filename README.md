@@ -50,10 +50,7 @@ The main goals of this analysis are:
 * Basic data visualization using Matplotlib
 
 ## Author
-
-This project was created as a learning exercise to strengthen data analysis skills using Python.
----
+Created by: Stuti Kalakheti
 
 ## Note
-
 This project is for educational purposes and demonstrates foundational data analysis techniques in Python.
